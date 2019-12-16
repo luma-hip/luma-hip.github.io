@@ -1,0 +1,83 @@
+.leiste {
+  background-color: rgb(221, 197, 169);
+  color: rgb(0, 0, 0);
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  text-transform: uppercase;
+  font-family: "Futura";
+}
+.einleitung {
+  font-size: 16px;
+  font-family: "Futura";
+  text-align: center;
+  border-width: 10px;
+  border-style: solid;
+  border-color: rgb(221, 197, 169);
+}
+.cc1 {
+  font-size: 18px;
+  font-family: "Futura";
+  text-align: center;
+  background-color: rgb(221, 197, 169);
+}
+.projekt1 {
+  float: left;
+  text-align: center;
+  font-size: 12px;
+  font-family: "Futura";
+  border-width: 10px;
+  border-style: solid;
+  border-color: rgb(221, 197, 169);
+}
+.projekt2 {
+  float: right;
+  text-align: center;
+  font-size: 12px;
+  font-family: "Futura";
+  border-width: 10px;
+  border-style: solid;
+  border-color: rgb(221, 197, 169);
+}
+.projekt3 {
+  float: center;
+  text-align: center;
+  font-size: 12px;
+  font-family: "Futura";
+  border-width: 10px;
+  border-style: solid;
+  border-color: rgb(221, 197, 169);
+}
+.d1 {
+  font-size: 18px;
+  font-family: "Futura";
+  text-align: center;
+  background-color: rgb(221, 197, 169);
+}
+.projekt4 {
+  float: left;
+  text-align: center;
+  font-size: 12px;
+  font-family: "Futura";
+  border-width: 10px;
+  border-style: solid;
+  border-color: rgb(221, 197, 169);
+}
+.projekt5 {
+  float: right;
+  text-align: center;
+  font-size: 12px;
+  font-family: "Futura";
+  border-width: 10px;
+  border-style: solid;
+  border-color: rgb(221, 197, 169);
+}
+.projekt6 {
+  float: center;
+  text-align: center;
+  font-size: 12px;
+  font-family: "Futura";
+  border-width: 10px;
+  border-style: solid;
+  border-color: rgb(221, 197, 169);
+}
